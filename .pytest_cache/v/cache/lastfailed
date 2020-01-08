@@ -1,0 +1,4 @@
+{
+  "TestCases/test_FirstTestCase_firefox.py::test_case_firefox": true,
+  "TestCases/test_KeyboardOperations.py::test_mycase": true
+}
